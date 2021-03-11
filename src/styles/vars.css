@@ -21,7 +21,7 @@ body[data-theme='light'] {
   --text-color: #403A3A;
   --title-color: #0B0A0A;
   --container-color: #FAFAFA;
-  --container-color_alt: #F1F1F1;
+  --container-color_alt: #EEEDF1;
   --body-color: #FCFCFC;
 }
 
