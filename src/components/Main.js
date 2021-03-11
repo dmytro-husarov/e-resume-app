@@ -47,7 +47,6 @@ const Resume = styled.div`
       grid-template-columns: 0.5fr 1fr;
       background-color: var(--container-color);
       box-shadow: 0 0 8px rgba(13, 12, 12, 0.15);
-      transition: background-color 1s;
     }
   }
 `
@@ -56,7 +55,6 @@ const ResumeLeft = styled.div`
     @media (min-width: 968px) {
       padding: 0 1.5rem;
       background-color: var(--container-color_alt);
-      transition: background-color 1s;
     }
   }
 `

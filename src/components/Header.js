@@ -162,7 +162,6 @@ const Toggle = styled.div`
   height: var(--header-height);
   background-color: var(--body-color);
   box-shadow: 0 1px 8px var(--text-color-light);
-  transition: background-color 1s;
 
   svg {
     font-size: 1.5rem;

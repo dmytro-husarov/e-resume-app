@@ -14,7 +14,6 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--text-color);
-  transition: background-color 1s;
 
   @media screen {
     @media (min-width: 968px) {
