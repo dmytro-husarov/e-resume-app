@@ -130,9 +130,9 @@ const Projects = () => {
             <Link
               target='_blank'
               rel="noreferrer"
-              href='https://eresume-react-app.web.app/'
+              href='https://e-resume-react.web.app/'
             >
-              Демо - https://eresume-react-app.web.app/
+              Демо - https://e-resume-react.web.app/
             </Link>
 
             <Link
